@@ -30,8 +30,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>2n127bo9is</Fingerprint>
-      <Integrity>zqdFDCKaUJ1Tkzh336GtTQafnr/YP3Oqniz6ewckMqo=</Integrity>
+      <Fingerprint>zhzgyrpx9k</Fingerprint>
+      <Integrity>SWoVTFY193zyMAr2fCRQIQU3mEY5deteHbVJI+Zu6pg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\DpTracker.styles.css'))</OriginalItemSpec>
