@@ -1,0 +1,223 @@
+/* Typography and layout basics */
+html[b-eknvnp2ym2], body[b-eknvnp2ym2] {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+h1:focus[b-eknvnp2ym2] {
+    outline: none;
+}
+
+.content[b-eknvnp2ym2] {
+    padding: 1.1rem 1rem;
+}
+
+/* Link & button colors */
+a[b-eknvnp2ym2], .btn-link[b-eknvnp2ym2] {
+    color: #006bb7;
+    text-decoration: none;
+}
+
+a:hover[b-eknvnp2ym2], .btn-link:hover[b-eknvnp2ym2] {
+    text-decoration: underline;
+}
+
+.btn-primary[b-eknvnp2ym2] {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+    padding: 0.6rem 1.2rem;
+    font-size: 1rem;
+    border-radius: 6px;
+}
+
+.btn:focus[b-eknvnp2ym2],
+.btn:active:focus[b-eknvnp2ym2],
+.btn-link.nav-link:focus[b-eknvnp2ym2],
+.form-control:focus[b-eknvnp2ym2],
+.form-check-input:focus[b-eknvnp2ym2] {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+    outline: none;
+}
+
+/* Module cards */
+.module-card[b-eknvnp2ym2] {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 12px;
+    padding: 1rem;
+    margin-bottom: 1.5rem;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+}
+
+/* Responsive flex header */
+.module-header[b-eknvnp2ym2] {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+@media (min-width: 768px) {
+    .module-header[b-eknvnp2ym2] {
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+    }
+}
+
+.module-body[b-eknvnp2ym2] {
+    padding-top: 1rem;
+}
+
+/* Goal input section */
+.goal-container[b-eknvnp2ym2] {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+
+@media (min-width: 768px) {
+    .goal-container[b-eknvnp2ym2] {
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+    }
+}
+
+.goal-input[b-eknvnp2ym2] {
+    flex: 1;
+}
+
+/* Assessment table responsiveness */
+.assessments-table-wrapper[b-eknvnp2ym2] {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+.assessments-table[b-eknvnp2ym2] {
+    width: 100%;
+    min-width: 500px;
+    border-collapse: collapse;
+}
+
+.assessments-table th[b-eknvnp2ym2],
+.assessments-table td[b-eknvnp2ym2] {
+    vertical-align: middle;
+    white-space: nowrap;
+    padding: 0.5rem 0.75rem;
+}
+
+/* Average display styles */
+.average-display[b-eknvnp2ym2] {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.75rem 1rem;
+    border-radius: 8px;
+    background-color: #f8f9fa;
+    font-weight: bold;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.current-average.passing[b-eknvnp2ym2] {
+    color: #198754;
+}
+
+.current-average.failing[b-eknvnp2ym2] {
+    color: #dc3545;
+}
+
+.target-average[b-eknvnp2ym2] {
+    color: #6c757d;
+}
+
+/* Validation styling */
+.valid.modified:not([type=checkbox])[b-eknvnp2ym2] {
+    outline: 2px solid #26b050;
+}
+
+.invalid[b-eknvnp2ym2] {
+    outline: 2px solid #e50000;
+}
+
+.validation-message[b-eknvnp2ym2] {
+    color: #e50000;
+    font-size: 0.9rem;
+    margin-top: 0.25rem;
+}
+
+/* Checkbox fix */
+.darker-border-checkbox.form-check-input[b-eknvnp2ym2] {
+    border-color: #929292;
+}
+
+/* Floating label alignment fix */
+.form-floating > .form-control-plaintext[b-eknvnp2ym2]::placeholder,
+.form-floating > .form-control[b-eknvnp2ym2]::placeholder {
+    color: var(--bs-secondary-color);
+    text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus[b-eknvnp2ym2]::placeholder,
+.form-floating > .form-control:focus[b-eknvnp2ym2]::placeholder {
+    text-align: start;
+}
+
+/* Error boundary (fallback UI) */
+.blazor-error-boundary[b-eknvnp2ym2] {
+    background: #b32121;
+    padding: 1rem 1rem 1rem 3.7rem;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: 1.8rem;
+    background-position: 1rem center;
+}
+
+.blazor-error-boundary[b-eknvnp2ym2]::after {
+    content: "An error has occurred.";
+}
+
+/* Mobile enhancements */
+@media (max-width: 768px) {
+    .module-card[b-eknvnp2ym2] {
+        padding: 0.75rem;
+    }
+
+    .btn[b-eknvnp2ym2] {
+        font-size: 0.95rem;
+        padding: 0.5rem 1rem;
+    }
+
+    .btn-group[b-eknvnp2ym2] {
+        flex-direction: column;
+        display: flex;
+        gap: 0.5rem;
+    }
+
+    .module-header input[b-eknvnp2ym2] {
+        font-size: 0.95rem;
+        width: 100%;
+    }
+
+    .average-display[b-eknvnp2ym2] {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .goal-container[b-eknvnp2ym2] {
+        flex-direction: column;
+        gap: 0.75rem;
+    }
+
+    .content[b-eknvnp2ym2] {
+        padding: 1rem 0.75rem;
+    }
+
+    .assessments-table-wrapper[b-eknvnp2ym2] {
+        margin-bottom: 1rem;
+    }
+}
