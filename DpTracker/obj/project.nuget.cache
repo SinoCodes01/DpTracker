@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4+kl0taYjTs=",
+  "dgSpecHash": "mzxYq0G68/M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker\\DpTracker\\DpTracker.csproj",
+  "projectFilePath": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\DpTracker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ngqaz\\.nuget\\packages\\blazored.localstorage\\4.5.0\\blazored.localstorage.4.5.0.nupkg.sha512",
     "C:\\Users\\ngqaz\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.0\\microsoft.aspnetcore.authorization.9.0.0.nupkg.sha512",
@@ -30,8 +30,9 @@
     "C:\\Users\\ngqaz\\.nuget\\packages\\microsoft.jsinterop\\9.0.0\\microsoft.jsinterop.9.0.0.nupkg.sha512",
     "C:\\Users\\ngqaz\\.nuget\\packages\\microsoft.jsinterop.webassembly\\9.0.0\\microsoft.jsinterop.webassembly.9.0.0.nupkg.sha512",
     "C:\\Users\\ngqaz\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.0\\microsoft.net.illink.tasks.9.0.0.nupkg.sha512",
-    "C:\\Users\\ngqaz\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.6\\microsoft.net.sdk.webassembly.pack.9.0.6.nupkg.sha512",
-    "C:\\Users\\ngqaz\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.6\\microsoft.netcore.app.ref.9.0.6.nupkg.sha512"
+    "C:\\Users\\ngqaz\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.7\\microsoft.net.sdk.webassembly.pack.9.0.7.nupkg.sha512",
+    "C:\\Users\\ngqaz\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.7\\microsoft.netcore.app.ref.9.0.7.nupkg.sha512",
+    "C:\\Users\\ngqaz\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\9.0.7\\microsoft.netcore.app.runtime.mono.browser-wasm.9.0.7.nupkg.sha512"
   ],
   "logs": []
 }

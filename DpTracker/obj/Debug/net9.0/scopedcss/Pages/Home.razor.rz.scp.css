@@ -1,11 +1,20 @@
-/* Typography and layout basics */
+/* Typography and layout basics - Mobile First */
 html[b-eknvnp2ym2], body[b-eknvnp2ym2] {
-    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    font-size: 16px;
-    line-height: 1.5;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    font-size: 14px; /* Reduced base font size for mobile */
+    line-height: 1.6; /* Increased for better readability */
     margin: 0;
     padding: 0;
     overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* Larger font size for tablets and desktop */
+@media (min-width: 768px) {
+    html[b-eknvnp2ym2], body[b-eknvnp2ym2] {
+        font-size: 16px;
+    }
 }
 
 h1:focus[b-eknvnp2ym2] {
@@ -13,26 +22,51 @@ h1:focus[b-eknvnp2ym2] {
 }
 
 .content[b-eknvnp2ym2] {
-    padding: 1.1rem 1rem;
+    padding: 0.75rem;
+    max-width: 100%;
 }
 
-/* Link & button colors */
+@media (min-width: 768px) {
+    .content[b-eknvnp2ym2] {
+        padding: 1.1rem 1rem;
+    }
+}
+
+/* Enhanced touch targets for mobile */
 a[b-eknvnp2ym2], .btn-link[b-eknvnp2ym2] {
     color: #006bb7;
     text-decoration: none;
+    min-height: 44px; /* Apple's recommended touch target size */
+    display: inline-flex;
+    align-items: center;
+    padding: 0.25rem 0;
 }
 
-a:hover[b-eknvnp2ym2], .btn-link:hover[b-eknvnp2ym2] {
+a:hover[b-eknvnp2ym2], a:active[b-eknvnp2ym2], .btn-link:hover[b-eknvnp2ym2], .btn-link:active[b-eknvnp2ym2] {
     text-decoration: underline;
+    background-color: rgba(0, 107, 183, 0.1);
+    border-radius: 4px;
 }
 
+/* Enhanced button styling for mobile */
 .btn-primary[b-eknvnp2ym2] {
     color: #fff;
     background-color: #1b6ec2;
-    border-color: #1861ac;
-    padding: 0.6rem 1.2rem;
+    border: 2px solid #1861ac; /* Thicker border for better visibility */
+    padding: 0.75rem 1.5rem; /* Larger padding for easier tapping */
     font-size: 1rem;
-    border-radius: 6px;
+    font-weight: 500;
+    border-radius: 8px; /* More rounded for modern look */
+    min-height: 44px;
+    min-width: 44px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.btn-primary:active[b-eknvnp2ym2] {
+    transform: scale(0.98);
+    background-color: #1861ac;
 }
 
 .btn:focus[b-eknvnp2ym2],
@@ -40,25 +74,36 @@ a:hover[b-eknvnp2ym2], .btn-link:hover[b-eknvnp2ym2] {
 .btn-link.nav-link:focus[b-eknvnp2ym2],
 .form-control:focus[b-eknvnp2ym2],
 .form-check-input:focus[b-eknvnp2ym2] {
-    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+    box-shadow: 0 0 0 0.15rem white, 0 0 0 0.3rem #258cfb;
     outline: none;
 }
 
-/* Module cards */
+/* Module cards - Mobile optimized */
 .module-card[b-eknvnp2ym2] {
     background-color: #fff;
-    border: 1px solid #ddd;
+    border: 1px solid #e0e0e0;
     border-radius: 12px;
-    padding: 1rem;
-    margin-bottom: 1.5rem;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+    padding: 0.75rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    box-sizing: border-box;
+}
+
+@media (min-width: 768px) {
+    .module-card[b-eknvnp2ym2] {
+        padding: 1rem;
+        margin-bottom: 1.5rem;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+    }
 }
 
 /* Responsive flex header */
 .module-header[b-eknvnp2ym2] {
     display: flex;
     flex-direction: column;
-    gap: 0.5rem;
+    gap: 0.75rem;
+    margin-bottom: 1rem;
 }
 
 @media (min-width: 768px) {
@@ -66,18 +111,27 @@ a:hover[b-eknvnp2ym2], .btn-link:hover[b-eknvnp2ym2] {
         flex-direction: row;
         align-items: center;
         justify-content: space-between;
+        gap: 0.5rem;
+        margin-bottom: 0;
     }
 }
 
 .module-body[b-eknvnp2ym2] {
-    padding-top: 1rem;
+    padding-top: 0.75rem;
 }
 
-/* Goal input section */
+@media (min-width: 768px) {
+    .module-body[b-eknvnp2ym2] {
+        padding-top: 1rem;
+    }
+}
+
+/* Enhanced goal input section */
 .goal-container[b-eknvnp2ym2] {
     display: flex;
     flex-direction: column;
     gap: 1rem;
+    width: 100%;
 }
 
 @media (min-width: 768px) {
@@ -90,134 +144,284 @@ a:hover[b-eknvnp2ym2], .btn-link:hover[b-eknvnp2ym2] {
 
 .goal-input[b-eknvnp2ym2] {
     flex: 1;
+    width: 100%;
+    min-height: 44px;
+    font-size: 16px; /* Prevents zoom on iOS */
+    padding: 0.75rem;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    box-sizing: border-box;
 }
 
-/* Assessment table responsiveness */
+/* Enhanced form controls */
+.form-control[b-eknvnp2ym2] {
+    font-size: 16px; /* Prevents zoom on iOS */
+    min-height: 44px;
+    padding: 0.75rem;
+    border-radius: 8px;
+    border: 2px solid #ddd;
+    transition: border-color 0.2s ease;
+}
+
+.form-control:focus[b-eknvnp2ym2] {
+    border-color: #258cfb;
+}
+
+/* Assessment table - Heavily improved for mobile */
 .assessments-table-wrapper[b-eknvnp2ym2] {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
+    border-radius: 8px;
+    border: 1px solid #e0e0e0;
+    margin: 1rem 0;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 }
 
 .assessments-table[b-eknvnp2ym2] {
     width: 100%;
-    min-width: 500px;
+    min-width: 100%;
     border-collapse: collapse;
+    font-size: 0.9rem;
 }
 
-.assessments-table th[b-eknvnp2ym2],
-.assessments-table td[b-eknvnp2ym2] {
-    vertical-align: middle;
-    white-space: nowrap;
-    padding: 0.5rem 0.75rem;
+@media (max-width: 768px) {
+    .assessments-table[b-eknvnp2ym2] {
+        min-width: auto;
+        display: block;
+    }
+    
+    .assessments-table thead[b-eknvnp2ym2] {
+        display: none;
+    }
+    
+    .assessments-table tbody[b-eknvnp2ym2] {
+        display: block;
+    }
+    
+    .assessments-table tr[b-eknvnp2ym2] {
+        display: block;
+        border-bottom: 2px solid #eee;
+        padding: 0.75rem;
+        margin-bottom: 0.5rem;
+        background: #f9f9f9;
+        border-radius: 8px;
+    }
+    
+    .assessments-table td[b-eknvnp2ym2] {
+        display: block;
+        text-align: left;
+        padding: 0.25rem 0;
+        border: none;
+        white-space: normal;
+    }
+    
+    .assessments-table td[b-eknvnp2ym2]::before {
+        content: attr(data-label) ": ";
+        font-weight: bold;
+        color: #666;
+    }
 }
 
-/* Average display styles */
+@media (min-width: 769px) {
+    .assessments-table th[b-eknvnp2ym2],
+    .assessments-table td[b-eknvnp2ym2] {
+        vertical-align: middle;
+        white-space: nowrap;
+        padding: 0.75rem;
+        border-bottom: 1px solid #eee;
+    }
+    
+    .assessments-table th[b-eknvnp2ym2] {
+        background-color: #f8f9fa;
+        font-weight: 600;
+    }
+}
+
+/* Enhanced average display */
 .average-display[b-eknvnp2ym2] {
     display: flex;
-    justify-content: space-between;
-    padding: 0.75rem 1rem;
-    border-radius: 8px;
-    background-color: #f8f9fa;
-    font-weight: bold;
-    flex-wrap: wrap;
+    flex-direction: column;
     gap: 0.5rem;
+    padding: 1rem;
+    border-radius: 12px;
+    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+    font-weight: 600;
+    margin: 1rem 0;
+    border: 1px solid #e0e0e0;
+}
+
+@media (min-width: 768px) {
+    .average-display[b-eknvnp2ym2] {
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        gap: 1rem;
+    }
+}
+
+.current-average[b-eknvnp2ym2], .target-average[b-eknvnp2ym2] {
+    padding: 0.5rem;
+    border-radius: 6px;
+    text-align: center;
 }
 
 .current-average.passing[b-eknvnp2ym2] {
     color: #198754;
+    background-color: rgba(25, 135, 84, 0.1);
 }
 
 .current-average.failing[b-eknvnp2ym2] {
     color: #dc3545;
+    background-color: rgba(220, 53, 69, 0.1);
 }
 
 .target-average[b-eknvnp2ym2] {
     color: #6c757d;
+    background-color: rgba(108, 117, 125, 0.1);
 }
 
-/* Validation styling */
+/* Enhanced validation styling */
 .valid.modified:not([type=checkbox])[b-eknvnp2ym2] {
     outline: 2px solid #26b050;
+    border-color: #26b050;
 }
 
 .invalid[b-eknvnp2ym2] {
     outline: 2px solid #e50000;
+    border-color: #e50000;
 }
 
 .validation-message[b-eknvnp2ym2] {
     color: #e50000;
-    font-size: 0.9rem;
-    margin-top: 0.25rem;
+    font-size: 0.85rem;
+    margin-top: 0.5rem;
+    padding: 0.25rem;
+    background-color: rgba(229, 0, 0, 0.1);
+    border-radius: 4px;
 }
 
-/* Checkbox fix */
+/* Enhanced checkbox */
 .darker-border-checkbox.form-check-input[b-eknvnp2ym2] {
     border-color: #929292;
+    min-height: 20px;
+    min-width: 20px;
+    transform: scale(1.2);
+    margin-right: 0.5rem;
 }
 
-/* Floating label alignment fix */
+/* Floating label improvements */
+.form-floating[b-eknvnp2ym2] {
+    position: relative;
+}
+
+.form-floating > .form-control[b-eknvnp2ym2],
+.form-floating > .form-control-plaintext[b-eknvnp2ym2] {
+    font-size: 16px; /* Prevents zoom on iOS */
+    min-height: 44px;
+}
+
 .form-floating > .form-control-plaintext[b-eknvnp2ym2]::placeholder,
 .form-floating > .form-control[b-eknvnp2ym2]::placeholder {
     color: var(--bs-secondary-color);
-    text-align: end;
+    opacity: 0.7;
 }
 
-.form-floating > .form-control-plaintext:focus[b-eknvnp2ym2]::placeholder,
-.form-floating > .form-control:focus[b-eknvnp2ym2]::placeholder {
-    text-align: start;
+.form-floating > label[b-eknvnp2ym2] {
+    font-size: 0.85rem;
+    color: #666;
+    font-weight: 500;
 }
 
-/* Error boundary (fallback UI) */
+/* Error boundary improvements */
 .blazor-error-boundary[b-eknvnp2ym2] {
     background: #b32121;
-    padding: 1rem 1rem 1rem 3.7rem;
+    padding: 1rem;
     color: white;
-    background-repeat: no-repeat;
-    background-size: 1.8rem;
-    background-position: 1rem center;
+    border-radius: 8px;
+    margin: 1rem 0;
+    font-weight: 500;
+    text-align: center;
 }
 
 .blazor-error-boundary[b-eknvnp2ym2]::after {
-    content: "An error has occurred.";
+    content: "An error has occurred. Please try again.";
 }
 
-/* Mobile enhancements */
+/* Enhanced mobile optimizations */
 @media (max-width: 768px) {
-    .module-card[b-eknvnp2ym2] {
-        padding: 0.75rem;
-    }
-
+    /* Improved touch targets and spacing */
     .btn[b-eknvnp2ym2] {
-        font-size: 0.95rem;
-        padding: 0.5rem 1rem;
+        font-size: 1rem;
+        padding: 0.75rem 1.25rem;
+        margin: 0.25rem 0;
+        width: 100%;
+        min-height: 44px;
     }
 
     .btn-group[b-eknvnp2ym2] {
-        flex-direction: column;
         display: flex;
+        flex-direction: row; /* Ensure buttons are in a row */
         gap: 0.5rem;
-    }
-
-    .module-header input[b-eknvnp2ym2] {
-        font-size: 0.95rem;
         width: 100%;
     }
 
-    .average-display[b-eknvnp2ym2] {
-        flex-direction: column;
-        align-items: flex-start;
+    .btn-group .btn[b-eknvnp2ym2] {
+        border-radius: 4px; /* Ensure buttons have a consistent border radius */
     }
 
-    .goal-container[b-eknvnp2ym2] {
-        flex-direction: column;
-        gap: 0.75rem;
+    /* Better input handling */
+    input[b-eknvnp2ym2], select[b-eknvnp2ym2], textarea[b-eknvnp2ym2] {
+        font-size: 16px !important; /* Prevents zoom on iOS */
+        -webkit-appearance: none;
+        border-radius: 8px;
     }
 
+    /* Improved scrolling */
+    .assessments-table-wrapper[b-eknvnp2ym2] {
+        scroll-behavior: smooth;
+        scrollbar-width: thin;
+    }
+
+    /* Better spacing */
     .content[b-eknvnp2ym2] {
         padding: 1rem 0.75rem;
     }
 
-    .assessments-table-wrapper[b-eknvnp2ym2] {
-        margin-bottom: 1rem;
+    /* Stack elements more naturally */
+    .average-display > *[b-eknvnp2ym2] {
+        width: 100%;
+        margin: 0.25rem 0;
+    }
+
+    /* Improve tap targets in headers */
+    .module-header > *[b-eknvnp2ym2] {
+        min-height: 44px;
+        display: flex;
+        align-items: center;
+    }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+    *[b-eknvnp2ym2] {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+    }
+}
+
+/* High contrast mode support */
+@media (prefers-contrast: high) {
+    .btn-primary[b-eknvnp2ym2] {
+        border-width: 3px;
+    }
+    
+    .module-card[b-eknvnp2ym2] {
+        border-width: 2px;
+    }
+    
+    .form-control:focus[b-eknvnp2ym2] {
+        outline: 3px solid #258cfb;
+        outline-offset: 2px;
     }
 }
