@@ -65,28 +65,25 @@ else
                                    @onblur="() => SaveModules()" 
                                    step="0.01" min="0" max="100" />
                         </div>
-                        
-                        <button class="btn btn-info" @onclick="() => CalculateAverage(module)">
-                            <i class="bi bi-calculator"></i> Calculate
-                        </button>
+            
                     </div>
 
                     <table class="table table-sm assessments-table">
-                        <thead>
+                        <!--<thead>
                             <tr>
                                 <th>Assessment</th>
                                 <th>Weight (%)</th>
                                 <th>Score</th>
                                 <th></th>
                             </tr>
-                        </thead>
+                        </thead>-->
                         <tbody>
                             @foreach (var a in module.Assessments)
                             {
                                 <tr>
-                                    <td><input class="form-control" @bind="a.Name" @onblur="() => SaveModules()" /></td>
-                                    <td><input type="number" class="form-control" @bind="a.Weight" @onblur="() => SaveModules()" /></td>
-                                    <td><input type="number" class="form-control" @bind="a.Score" @onblur="() => SaveModules()" /></td>
+                                    <td><label>Assessment</label><input class="form-control" @bind="a.Name" @onblur="() => SaveModules()" /></td>
+                                    <td><label>Weight (%)</label><input type="number" class="form-control" @bind="a.Weight" @onblur="() => SaveModules()" /></td>
+                                    <td><label>Score</label><input type="number" class="form-control" @bind="a.Score" @onblur="() => SaveModules()" /></td>
                                     <td>
                                         <button class="btn btn-sm btn-danger" 
                                                 @onclick="() => DeleteAssessment(module, a)">
@@ -101,6 +98,10 @@ else
                     <button class="btn btn-outline-primary btn-sm" 
                             @onclick="() => AddAssessment(module)">
                         <i class="bi bi-plus"></i> Add Assessment
+                    </button>
+
+                    <button class="btn btn-info" @onclick="() => CalculateAverage(module)">
+                        <i class="bi bi-calculator"></i> Calculate
                     </button>
 
                     @if (module.Assessments.Any())
