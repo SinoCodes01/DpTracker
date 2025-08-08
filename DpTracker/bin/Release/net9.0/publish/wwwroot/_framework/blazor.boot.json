@@ -1,10 +1,10 @@
 {
   "mainAssemblyName": "DpTracker",
   "resources": {
-    "hash": "sha256-hdHUHftotED3RUN+voC7RZrQvMNYxzIY41c6RLr4krM=",
+    "hash": "sha256-PwbZCpEWsL/yoBss6LXrv5gAOP9doO3Vz3dfVQFzdJA=",
     "fingerprinting": {
       "Blazored.LocalStorage.12n6dz54qr.wasm": "Blazored.LocalStorage.wasm",
-      "DpTracker.g3gwgisrp3.wasm": "DpTracker.wasm",
+      "DpTracker.xrayq8alio.wasm": "DpTracker.wasm",
       "Microsoft.AspNetCore.Components.r4t6915r58.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.7apenvi18o.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
       "Microsoft.AspNetCore.Components.WebAssembly.pq7fdyw1tb.wasm": "Microsoft.AspNetCore.Components.WebAssembly.wasm",
@@ -65,7 +65,7 @@
     },
     "assembly": {
       "Blazored.LocalStorage.12n6dz54qr.wasm": "sha256-OaMAAd5n7ORfyur5e3QIyEVKJ76MKIvwbg7/icnnYcU=",
-      "DpTracker.g3gwgisrp3.wasm": "sha256-fDFsqk9+NFpYc7epRt2YZCkQruo+paMFfbATEfZ/F3Q=",
+      "DpTracker.xrayq8alio.wasm": "sha256-DcU7AEGY8bFH5gFexqibL+HCKKJhmHDyO78pPsjqSJU=",
       "Microsoft.AspNetCore.Components.r4t6915r58.wasm": "sha256-BcpoequPw472JSzwBHJ6ZG8HDU9P5gXu9EvAX3actww=",
       "Microsoft.AspNetCore.Components.Web.7apenvi18o.wasm": "sha256-fyqnB2DYAO80AStwVkG2g+mFplGXI54QNWpUbk5VoiE=",
       "Microsoft.AspNetCore.Components.WebAssembly.pq7fdyw1tb.wasm": "sha256-D/ZUWrvE7bqOtBfOWuLj+4RNqOvNZ0SnjD6QrBwUcb8=",

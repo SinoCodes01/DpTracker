@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6pbL+YOtqniexRDK90+4bW1Z2q5WDKW3QONNFZIwQhs=",
+  "Hash": "QREXCTntcDQIXS57T5EUX5E51lTxUgAwqqNYsqpbq9o=",
   "Source": "DpTracker",
   "BasePath": "/",
   "Mode": "Root",
@@ -199,8 +199,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "b2wcqfhjod",
-      "Integrity": "U/MdhhbTxMkmHuSmq0HSsumCl+E0EO6Ew9E+cMloqiw=",
+      "Fingerprint": "5gs53t2u0n",
+      "Integrity": "u8lUGV2sE+GdeRENn4pj/b5mfP/XY5ZiCye1HV+1tN8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "obj\\Release\\net9.0\\blazor.publish.boot.json"
@@ -2831,7 +2831,7 @@
       "OriginalItemSpec": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\mz11221leo-qtaglo0540.br",
+      "Identity": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\mz11221leo-ebpoglpu7c.br",
       "SourceId": "DpTracker",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\",
@@ -2845,14 +2845,14 @@
       "RelatedAsset": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\service-worker\\service-worker-assets.js.publish",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "bbw57srbmv",
-      "Integrity": "KQYpqqE9ZiHmmQsFPgueYJUMPOoGYlA6nSS6TBDIAn0=",
+      "Fingerprint": "zv7ejt57j8",
+      "Integrity": "kUn4O/7DxIDhNl0t4iAAM5HfeLhlvl4BYNxYfFPrNF0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\service-worker\\service-worker-assets.js.publish"
     },
     {
-      "Identity": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\mz11221leo-qtaglo0540.gz",
+      "Identity": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\mz11221leo-ebpoglpu7c.gz",
       "SourceId": "DpTracker",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\",
@@ -2866,8 +2866,8 @@
       "RelatedAsset": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\service-worker\\service-worker-assets.js.publish",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "twyzt8taii",
-      "Integrity": "g7eML1OEDWfTJGi271zZwkXWLMJ2EiwrAJH8ADP4KVQ=",
+      "Fingerprint": "wdc9ouiz7j",
+      "Integrity": "9NbB4tsDnJUFXJGYZ5s9sCe91ykD0zAJysujg0mO2hA=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\service-worker\\service-worker-assets.js.publish"
@@ -2978,12 +2978,12 @@
       "OriginalItemSpec": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\webcil\\publish\\System.Private.Uri.wasm"
     },
     {
-      "Identity": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\pt41uziaba-g3gwgisrp3.br",
+      "Identity": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\pt41uziaba-xrayq8alio.br",
       "SourceId": "DpTracker",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\",
       "BasePath": "/",
-      "RelativePath": "_framework/DpTracker#[.{fingerprint=g3gwgisrp3}]!.wasm.br",
+      "RelativePath": "_framework/DpTracker#[.{fingerprint=xrayq8alio}]!.wasm.br",
       "AssetKind": "Publish",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -2992,19 +2992,19 @@
       "RelatedAsset": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\webcil\\publish\\DpTracker.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "dvmebzokwv",
-      "Integrity": "SUI7Jn9LSMsy56ubDW/5JuJhD1uC3+AXbsUIWjy9u4U=",
+      "Fingerprint": "fsp4whquvw",
+      "Integrity": "cYABdSHIalGYLfsyU2YhjuAJV3cx5R3kDPvETBNtaFs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\webcil\\publish\\DpTracker.wasm"
     },
     {
-      "Identity": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\pt41uziaba-g3gwgisrp3.gz",
+      "Identity": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\pt41uziaba-xrayq8alio.gz",
       "SourceId": "DpTracker",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\",
       "BasePath": "/",
-      "RelativePath": "_framework/DpTracker#[.{fingerprint=g3gwgisrp3}]!.wasm.gz",
+      "RelativePath": "_framework/DpTracker#[.{fingerprint=xrayq8alio}]!.wasm.gz",
       "AssetKind": "Publish",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -3013,8 +3013,8 @@
       "RelatedAsset": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\webcil\\publish\\DpTracker.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "gfkxv5cbfl",
-      "Integrity": "VOejrYc1ZTjznPnnJju9RQ9SQ5y/fzGqQ4WQlm20vm4=",
+      "Fingerprint": "krgiu18r9t",
+      "Integrity": "oBjR0XpUMGHMlrpirbpgHAxjSjkiXlMZa7Uehcji2/A=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\webcil\\publish\\DpTracker.wasm"
@@ -3293,7 +3293,7 @@
       "OriginalItemSpec": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\tdoco4mpd2-b2wcqfhjod.br",
+      "Identity": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\tdoco4mpd2-5gs53t2u0n.br",
       "SourceId": "DpTracker",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\",
@@ -3307,14 +3307,14 @@
       "RelatedAsset": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\blazor.publish.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "br",
-      "Fingerprint": "cceurd84ko",
-      "Integrity": "5IxWDsiU32HvYBKBmSkIO9/njN3PMlLy7BO0uyGzWro=",
+      "Fingerprint": "orusi3trfs",
+      "Integrity": "xFimzP7tgLVMbFLp2YfYYSwFqcSvMBznvY/cXZAj8cQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\blazor.publish.boot.json"
     },
     {
-      "Identity": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\tdoco4mpd2-b2wcqfhjod.gz",
+      "Identity": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\tdoco4mpd2-5gs53t2u0n.gz",
       "SourceId": "DpTracker",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\",
@@ -3328,14 +3328,14 @@
       "RelatedAsset": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\blazor.publish.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "orw5uztdlg",
-      "Integrity": "3HDjsRLEn7/POLuDSdsYaIX4VI4fbolML4wHnvx52LI=",
+      "Fingerprint": "gudjuh4lsw",
+      "Integrity": "KPHYOYKJgeakZ6AxXh3kW47nN6FX628itkDEr9Xiwdc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\blazor.publish.boot.json"
     },
     {
-      "Identity": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\tqn9vhuxsg-xzo7jz7vgv.br",
+      "Identity": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\tqn9vhuxsg-9tc7d2fxqj.br",
       "SourceId": "DpTracker",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\",
@@ -3356,7 +3356,7 @@
       "OriginalItemSpec": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\service-worker\\service-worker.published.js.publish"
     },
     {
-      "Identity": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\tqn9vhuxsg-xzo7jz7vgv.gz",
+      "Identity": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\tqn9vhuxsg-9tc7d2fxqj.gz",
       "SourceId": "DpTracker",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\",
@@ -4210,8 +4210,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "BlazorServiceWorker",
       "AssetTraitValue": "ServiceWorkerManifest",
-      "Fingerprint": "qtaglo0540",
-      "Integrity": "zm8gELa+yp15PLp8cMXrJy1FyiGcWHKtCJ4josrG1+s=",
+      "Fingerprint": "ebpoglpu7c",
+      "Integrity": "KiqGBWbxNvN7c9auVO3yHwjrMC7tpp10a7IaNY/dp/c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "obj\\Release\\net9.0\\service-worker\\service-worker-assets.js.publish"
@@ -4231,8 +4231,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "BlazorServiceWorker",
       "AssetTraitValue": "ServiceWorkerJs",
-      "Fingerprint": "xzo7jz7vgv",
-      "Integrity": "s/ZfNH+W+Yz1307MnP9gqXVSzhx1rXIdxOoPT9hzEgA=",
+      "Fingerprint": "9tc7d2fxqj",
+      "Integrity": "Yx5qrERH+A3NI/ZsLP4TG893usTdMIMn2L0/+zbi9u4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\service-worker.published.js"
@@ -4273,8 +4273,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "g3gwgisrp3",
-      "Integrity": "fDFsqk9+NFpYc7epRt2YZCkQruo+paMFfbATEfZ/F3Q=",
+      "Fingerprint": "xrayq8alio",
+      "Integrity": "DcU7AEGY8bFH5gFexqibL+HCKKJhmHDyO78pPsjqSJU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\webcil\\publish\\DpTracker.wasm"
@@ -6022,11 +6022,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"U/MdhhbTxMkmHuSmq0HSsumCl+E0EO6Ew9E+cMloqiw=\""
+          "Value": "\"u8lUGV2sE+GdeRENn4pj/b5mfP/XY5ZiCye1HV+1tN8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 08 Aug 2025 13:21:15 GMT"
+          "Value": "Fri, 08 Aug 2025 18:48:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6036,18 +6036,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-U/MdhhbTxMkmHuSmq0HSsumCl+E0EO6Ew9E+cMloqiw="
+          "Value": "sha256-u8lUGV2sE+GdeRENn4pj/b5mfP/XY5ZiCye1HV+1tN8="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\tdoco4mpd2-b2wcqfhjod.br",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\tdoco4mpd2-5gs53t2u0n.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000392618767"
+          "Quality": "0.000392772977"
         }
       ],
       "ResponseHeaders": [
@@ -6057,15 +6057,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2546"
+          "Value": "2545"
         },
         {
           "Name": "ETag",
-          "Value": "\"5IxWDsiU32HvYBKBmSkIO9/njN3PMlLy7BO0uyGzWro=\""
+          "Value": "\"xFimzP7tgLVMbFLp2YfYYSwFqcSvMBznvY/cXZAj8cQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 08 Aug 2025 13:21:15 GMT"
+          "Value": "Fri, 08 Aug 2025 18:48:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6085,24 +6085,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"U/MdhhbTxMkmHuSmq0HSsumCl+E0EO6Ew9E+cMloqiw=\""
+          "Value": "W/\"u8lUGV2sE+GdeRENn4pj/b5mfP/XY5ZiCye1HV+1tN8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-U/MdhhbTxMkmHuSmq0HSsumCl+E0EO6Ew9E+cMloqiw="
+          "Value": "sha256-u8lUGV2sE+GdeRENn4pj/b5mfP/XY5ZiCye1HV+1tN8="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\tdoco4mpd2-b2wcqfhjod.gz",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\tdoco4mpd2-5gs53t2u0n.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000359971202"
+          "Quality": "0.000360230548"
         }
       ],
       "ResponseHeaders": [
@@ -6112,15 +6112,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2777"
+          "Value": "2775"
         },
         {
           "Name": "ETag",
-          "Value": "\"3HDjsRLEn7/POLuDSdsYaIX4VI4fbolML4wHnvx52LI=\""
+          "Value": "\"KPHYOYKJgeakZ6AxXh3kW47nN6FX628itkDEr9Xiwdc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 08 Aug 2025 13:21:15 GMT"
+          "Value": "Fri, 08 Aug 2025 18:48:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6140,19 +6140,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"U/MdhhbTxMkmHuSmq0HSsumCl+E0EO6Ew9E+cMloqiw=\""
+          "Value": "W/\"u8lUGV2sE+GdeRENn4pj/b5mfP/XY5ZiCye1HV+1tN8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-U/MdhhbTxMkmHuSmq0HSsumCl+E0EO6Ew9E+cMloqiw="
+          "Value": "sha256-u8lUGV2sE+GdeRENn4pj/b5mfP/XY5ZiCye1HV+1tN8="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.br",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\tdoco4mpd2-b2wcqfhjod.br",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\tdoco4mpd2-5gs53t2u0n.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6161,7 +6161,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2546"
+          "Value": "2545"
         },
         {
           "Name": "Content-Type",
@@ -6169,11 +6169,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"5IxWDsiU32HvYBKBmSkIO9/njN3PMlLy7BO0uyGzWro=\""
+          "Value": "\"xFimzP7tgLVMbFLp2YfYYSwFqcSvMBznvY/cXZAj8cQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 08 Aug 2025 13:21:15 GMT"
+          "Value": "Fri, 08 Aug 2025 18:48:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6191,13 +6191,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-5IxWDsiU32HvYBKBmSkIO9/njN3PMlLy7BO0uyGzWro="
+          "Value": "sha256-xFimzP7tgLVMbFLp2YfYYSwFqcSvMBznvY/cXZAj8cQ="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\tdoco4mpd2-b2wcqfhjod.gz",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\tdoco4mpd2-5gs53t2u0n.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6206,7 +6206,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2777"
+          "Value": "2775"
         },
         {
           "Name": "Content-Type",
@@ -6214,11 +6214,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3HDjsRLEn7/POLuDSdsYaIX4VI4fbolML4wHnvx52LI=\""
+          "Value": "\"KPHYOYKJgeakZ6AxXh3kW47nN6FX628itkDEr9Xiwdc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 08 Aug 2025 13:21:15 GMT"
+          "Value": "Fri, 08 Aug 2025 18:48:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -6236,7 +6236,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-3HDjsRLEn7/POLuDSdsYaIX4VI4fbolML4wHnvx52LI="
+          "Value": "sha256-KPHYOYKJgeakZ6AxXh3kW47nN6FX628itkDEr9Xiwdc="
         }
       ]
     },
@@ -8541,13 +8541,13 @@
       ]
     },
     {
-      "Route": "_framework/DpTracker.g3gwgisrp3.wasm",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\pt41uziaba-g3gwgisrp3.br",
+      "Route": "_framework/DpTracker.wasm",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\pt41uziaba-xrayq8alio.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "br",
-          "Quality": "0.000089055125"
+          "Quality": "0.000089047195"
         }
       ],
       "ResponseHeaders": [
@@ -8557,15 +8557,252 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11228"
+          "Value": "11229"
         },
         {
           "Name": "ETag",
-          "Value": "\"SUI7Jn9LSMsy56ubDW/5JuJhD1uC3+AXbsUIWjy9u4U=\""
+          "Value": "\"cYABdSHIalGYLfsyU2YhjuAJV3cx5R3kDPvETBNtaFs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 08 Aug 2025 13:21:14 GMT"
+          "Value": "Fri, 08 Aug 2025 18:48:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"DcU7AEGY8bFH5gFexqibL+HCKKJhmHDyO78pPsjqSJU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DcU7AEGY8bFH5gFexqibL+HCKKJhmHDyO78pPsjqSJU="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/DpTracker.wasm",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\pt41uziaba-xrayq8alio.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000076423386"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13084"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oBjR0XpUMGHMlrpirbpgHAxjSjkiXlMZa7Uehcji2/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Aug 2025 18:48:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"DcU7AEGY8bFH5gFexqibL+HCKKJhmHDyO78pPsjqSJU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DcU7AEGY8bFH5gFexqibL+HCKKJhmHDyO78pPsjqSJU="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/DpTracker.wasm",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\webcil\\publish\\DpTracker.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33557"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DcU7AEGY8bFH5gFexqibL+HCKKJhmHDyO78pPsjqSJU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Aug 2025 18:48:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DcU7AEGY8bFH5gFexqibL+HCKKJhmHDyO78pPsjqSJU="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/DpTracker.wasm.br",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\pt41uziaba-xrayq8alio.br",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11229"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cYABdSHIalGYLfsyU2YhjuAJV3cx5R3kDPvETBNtaFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Aug 2025 18:48:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "br"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cYABdSHIalGYLfsyU2YhjuAJV3cx5R3kDPvETBNtaFs="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/DpTracker.wasm.gz",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\pt41uziaba-xrayq8alio.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oBjR0XpUMGHMlrpirbpgHAxjSjkiXlMZa7Uehcji2/A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Aug 2025 18:48:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oBjR0XpUMGHMlrpirbpgHAxjSjkiXlMZa7Uehcji2/A="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/DpTracker.xrayq8alio.wasm",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\pt41uziaba-xrayq8alio.br",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "br",
+          "Quality": "0.000089047195"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11229"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cYABdSHIalGYLfsyU2YhjuAJV3cx5R3kDPvETBNtaFs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 08 Aug 2025 18:48:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8585,13 +8822,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"fDFsqk9+NFpYc7epRt2YZCkQruo+paMFfbATEfZ/F3Q=\""
+          "Value": "W/\"DcU7AEGY8bFH5gFexqibL+HCKKJhmHDyO78pPsjqSJU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "g3gwgisrp3"
+          "Value": "xrayq8alio"
         },
         {
           "Name": "label",
@@ -8599,18 +8836,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fDFsqk9+NFpYc7epRt2YZCkQruo+paMFfbATEfZ/F3Q="
+          "Value": "sha256-DcU7AEGY8bFH5gFexqibL+HCKKJhmHDyO78pPsjqSJU="
         }
       ]
     },
     {
-      "Route": "_framework/DpTracker.g3gwgisrp3.wasm",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\pt41uziaba-g3gwgisrp3.gz",
+      "Route": "_framework/DpTracker.xrayq8alio.wasm",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\pt41uziaba-xrayq8alio.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000076295109"
+          "Quality": "0.000076423386"
         }
       ],
       "ResponseHeaders": [
@@ -8620,15 +8857,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13106"
+          "Value": "13084"
         },
         {
           "Name": "ETag",
-          "Value": "\"VOejrYc1ZTjznPnnJju9RQ9SQ5y/fzGqQ4WQlm20vm4=\""
+          "Value": "\"oBjR0XpUMGHMlrpirbpgHAxjSjkiXlMZa7Uehcji2/A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 08 Aug 2025 13:21:14 GMT"
+          "Value": "Fri, 08 Aug 2025 18:48:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8648,13 +8885,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"fDFsqk9+NFpYc7epRt2YZCkQruo+paMFfbATEfZ/F3Q=\""
+          "Value": "W/\"DcU7AEGY8bFH5gFexqibL+HCKKJhmHDyO78pPsjqSJU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "g3gwgisrp3"
+          "Value": "xrayq8alio"
         },
         {
           "Name": "label",
@@ -8662,12 +8899,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fDFsqk9+NFpYc7epRt2YZCkQruo+paMFfbATEfZ/F3Q="
+          "Value": "sha256-DcU7AEGY8bFH5gFexqibL+HCKKJhmHDyO78pPsjqSJU="
         }
       ]
     },
     {
-      "Route": "_framework/DpTracker.g3gwgisrp3.wasm",
+      "Route": "_framework/DpTracker.xrayq8alio.wasm",
       "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\webcil\\publish\\DpTracker.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -8677,7 +8914,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "34069"
+          "Value": "33557"
         },
         {
           "Name": "Content-Type",
@@ -8685,11 +8922,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"fDFsqk9+NFpYc7epRt2YZCkQruo+paMFfbATEfZ/F3Q=\""
+          "Value": "\"DcU7AEGY8bFH5gFexqibL+HCKKJhmHDyO78pPsjqSJU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 08 Aug 2025 13:21:14 GMT"
+          "Value": "Fri, 08 Aug 2025 18:48:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8699,7 +8936,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "g3gwgisrp3"
+          "Value": "xrayq8alio"
         },
         {
           "Name": "label",
@@ -8707,13 +8944,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-fDFsqk9+NFpYc7epRt2YZCkQruo+paMFfbATEfZ/F3Q="
+          "Value": "sha256-DcU7AEGY8bFH5gFexqibL+HCKKJhmHDyO78pPsjqSJU="
         }
       ]
     },
     {
-      "Route": "_framework/DpTracker.g3gwgisrp3.wasm.br",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\pt41uziaba-g3gwgisrp3.br",
+      "Route": "_framework/DpTracker.xrayq8alio.wasm.br",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\pt41uziaba-xrayq8alio.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8722,7 +8959,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "11228"
+          "Value": "11229"
         },
         {
           "Name": "Content-Type",
@@ -8730,11 +8967,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"SUI7Jn9LSMsy56ubDW/5JuJhD1uC3+AXbsUIWjy9u4U=\""
+          "Value": "\"cYABdSHIalGYLfsyU2YhjuAJV3cx5R3kDPvETBNtaFs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 08 Aug 2025 13:21:14 GMT"
+          "Value": "Fri, 08 Aug 2025 18:48:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8752,7 +8989,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "g3gwgisrp3"
+          "Value": "xrayq8alio"
         },
         {
           "Name": "label",
@@ -8760,13 +8997,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-SUI7Jn9LSMsy56ubDW/5JuJhD1uC3+AXbsUIWjy9u4U="
+          "Value": "sha256-cYABdSHIalGYLfsyU2YhjuAJV3cx5R3kDPvETBNtaFs="
         }
       ]
     },
     {
-      "Route": "_framework/DpTracker.g3gwgisrp3.wasm.gz",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\pt41uziaba-g3gwgisrp3.gz",
+      "Route": "_framework/DpTracker.xrayq8alio.wasm.gz",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\pt41uziaba-xrayq8alio.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8775,7 +9012,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13106"
+          "Value": "13084"
         },
         {
           "Name": "Content-Type",
@@ -8783,11 +9020,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"VOejrYc1ZTjznPnnJju9RQ9SQ5y/fzGqQ4WQlm20vm4=\""
+          "Value": "\"oBjR0XpUMGHMlrpirbpgHAxjSjkiXlMZa7Uehcji2/A=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 08 Aug 2025 13:21:14 GMT"
+          "Value": "Fri, 08 Aug 2025 18:48:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8805,7 +9042,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "g3gwgisrp3"
+          "Value": "xrayq8alio"
         },
         {
           "Name": "label",
@@ -8813,244 +9050,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-VOejrYc1ZTjznPnnJju9RQ9SQ5y/fzGqQ4WQlm20vm4="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/DpTracker.wasm",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\pt41uziaba-g3gwgisrp3.br",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "br",
-          "Quality": "0.000089055125"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "11228"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SUI7Jn9LSMsy56ubDW/5JuJhD1uC3+AXbsUIWjy9u4U=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 08 Aug 2025 13:21:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"fDFsqk9+NFpYc7epRt2YZCkQruo+paMFfbATEfZ/F3Q=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-fDFsqk9+NFpYc7epRt2YZCkQruo+paMFfbATEfZ/F3Q="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/DpTracker.wasm",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\pt41uziaba-g3gwgisrp3.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000076295109"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13106"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VOejrYc1ZTjznPnnJju9RQ9SQ5y/fzGqQ4WQlm20vm4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 08 Aug 2025 13:21:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"fDFsqk9+NFpYc7epRt2YZCkQruo+paMFfbATEfZ/F3Q=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-fDFsqk9+NFpYc7epRt2YZCkQruo+paMFfbATEfZ/F3Q="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/DpTracker.wasm",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\webcil\\publish\\DpTracker.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "34069"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"fDFsqk9+NFpYc7epRt2YZCkQruo+paMFfbATEfZ/F3Q=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 08 Aug 2025 13:21:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-fDFsqk9+NFpYc7epRt2YZCkQruo+paMFfbATEfZ/F3Q="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/DpTracker.wasm.br",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\pt41uziaba-g3gwgisrp3.br",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "11228"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"SUI7Jn9LSMsy56ubDW/5JuJhD1uC3+AXbsUIWjy9u4U=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 08 Aug 2025 13:21:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "br"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-SUI7Jn9LSMsy56ubDW/5JuJhD1uC3+AXbsUIWjy9u4U="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/DpTracker.wasm.gz",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\pt41uziaba-g3gwgisrp3.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13106"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"VOejrYc1ZTjznPnnJju9RQ9SQ5y/fzGqQ4WQlm20vm4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 08 Aug 2025 13:21:14 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-VOejrYc1ZTjznPnnJju9RQ9SQ5y/fzGqQ4WQlm20vm4="
+          "Value": "sha256-oBjR0XpUMGHMlrpirbpgHAxjSjkiXlMZa7Uehcji2/A="
         }
       ]
     },
@@ -51647,7 +51647,7 @@
     },
     {
       "Route": "service-worker-assets.js",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\mz11221leo-qtaglo0540.br",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\mz11221leo-ebpoglpu7c.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -51666,11 +51666,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KQYpqqE9ZiHmmQsFPgueYJUMPOoGYlA6nSS6TBDIAn0=\""
+          "Value": "\"kUn4O/7DxIDhNl0t4iAAM5HfeLhlvl4BYNxYfFPrNF0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 08 Aug 2025 13:21:15 GMT"
+          "Value": "Fri, 08 Aug 2025 18:48:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -51690,24 +51690,24 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"zm8gELa+yp15PLp8cMXrJy1FyiGcWHKtCJ4josrG1+s=\""
+          "Value": "W/\"KiqGBWbxNvN7c9auVO3yHwjrMC7tpp10a7IaNY/dp/c=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zm8gELa+yp15PLp8cMXrJy1FyiGcWHKtCJ4josrG1+s="
+          "Value": "sha256-KiqGBWbxNvN7c9auVO3yHwjrMC7tpp10a7IaNY/dp/c="
         }
       ]
     },
     {
       "Route": "service-worker-assets.js",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\mz11221leo-qtaglo0540.gz",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\mz11221leo-ebpoglpu7c.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000224719101"
+          "Quality": "0.000224668614"
         }
       ],
       "ResponseHeaders": [
@@ -51717,15 +51717,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4449"
+          "Value": "4450"
         },
         {
           "Name": "ETag",
-          "Value": "\"g7eML1OEDWfTJGi271zZwkXWLMJ2EiwrAJH8ADP4KVQ=\""
+          "Value": "\"9NbB4tsDnJUFXJGYZ5s9sCe91ykD0zAJysujg0mO2hA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 08 Aug 2025 13:21:15 GMT"
+          "Value": "Fri, 08 Aug 2025 18:48:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -51745,13 +51745,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"zm8gELa+yp15PLp8cMXrJy1FyiGcWHKtCJ4josrG1+s=\""
+          "Value": "W/\"KiqGBWbxNvN7c9auVO3yHwjrMC7tpp10a7IaNY/dp/c=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zm8gELa+yp15PLp8cMXrJy1FyiGcWHKtCJ4josrG1+s="
+          "Value": "sha256-KiqGBWbxNvN7c9auVO3yHwjrMC7tpp10a7IaNY/dp/c="
         }
       ]
     },
@@ -51774,11 +51774,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zm8gELa+yp15PLp8cMXrJy1FyiGcWHKtCJ4josrG1+s=\""
+          "Value": "\"KiqGBWbxNvN7c9auVO3yHwjrMC7tpp10a7IaNY/dp/c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 08 Aug 2025 13:21:15 GMT"
+          "Value": "Fri, 08 Aug 2025 18:48:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -51788,13 +51788,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zm8gELa+yp15PLp8cMXrJy1FyiGcWHKtCJ4josrG1+s="
+          "Value": "sha256-KiqGBWbxNvN7c9auVO3yHwjrMC7tpp10a7IaNY/dp/c="
         }
       ]
     },
     {
       "Route": "service-worker-assets.js.br",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\mz11221leo-qtaglo0540.br",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\mz11221leo-ebpoglpu7c.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -51811,11 +51811,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KQYpqqE9ZiHmmQsFPgueYJUMPOoGYlA6nSS6TBDIAn0=\""
+          "Value": "\"kUn4O/7DxIDhNl0t4iAAM5HfeLhlvl4BYNxYfFPrNF0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 08 Aug 2025 13:21:15 GMT"
+          "Value": "Fri, 08 Aug 2025 18:48:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -51833,13 +51833,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KQYpqqE9ZiHmmQsFPgueYJUMPOoGYlA6nSS6TBDIAn0="
+          "Value": "sha256-kUn4O/7DxIDhNl0t4iAAM5HfeLhlvl4BYNxYfFPrNF0="
         }
       ]
     },
     {
       "Route": "service-worker-assets.js.gz",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\mz11221leo-qtaglo0540.gz",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\mz11221leo-ebpoglpu7c.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -51848,7 +51848,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4449"
+          "Value": "4450"
         },
         {
           "Name": "Content-Type",
@@ -51856,11 +51856,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"g7eML1OEDWfTJGi271zZwkXWLMJ2EiwrAJH8ADP4KVQ=\""
+          "Value": "\"9NbB4tsDnJUFXJGYZ5s9sCe91ykD0zAJysujg0mO2hA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 08 Aug 2025 13:21:15 GMT"
+          "Value": "Fri, 08 Aug 2025 18:48:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -51878,13 +51878,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-g7eML1OEDWfTJGi271zZwkXWLMJ2EiwrAJH8ADP4KVQ="
+          "Value": "sha256-9NbB4tsDnJUFXJGYZ5s9sCe91ykD0zAJysujg0mO2hA="
         }
       ]
     },
     {
       "Route": "service-worker.js",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\tqn9vhuxsg-xzo7jz7vgv.br",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\tqn9vhuxsg-9tc7d2fxqj.br",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -51907,7 +51907,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 08 Aug 2025 13:21:15 GMT"
+          "Value": "Fri, 08 Aug 2025 18:48:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -51927,19 +51927,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"s/ZfNH+W+Yz1307MnP9gqXVSzhx1rXIdxOoPT9hzEgA=\""
+          "Value": "W/\"Yx5qrERH+A3NI/ZsLP4TG893usTdMIMn2L0/+zbi9u4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-s/ZfNH+W+Yz1307MnP9gqXVSzhx1rXIdxOoPT9hzEgA="
+          "Value": "sha256-Yx5qrERH+A3NI/ZsLP4TG893usTdMIMn2L0/+zbi9u4="
         }
       ]
     },
     {
       "Route": "service-worker.js",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\tqn9vhuxsg-xzo7jz7vgv.gz",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\tqn9vhuxsg-9tc7d2fxqj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -51962,7 +51962,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 08 Aug 2025 13:21:15 GMT"
+          "Value": "Fri, 08 Aug 2025 18:48:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -51982,13 +51982,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"s/ZfNH+W+Yz1307MnP9gqXVSzhx1rXIdxOoPT9hzEgA=\""
+          "Value": "W/\"Yx5qrERH+A3NI/ZsLP4TG893usTdMIMn2L0/+zbi9u4=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-s/ZfNH+W+Yz1307MnP9gqXVSzhx1rXIdxOoPT9hzEgA="
+          "Value": "sha256-Yx5qrERH+A3NI/ZsLP4TG893usTdMIMn2L0/+zbi9u4="
         }
       ]
     },
@@ -52011,7 +52011,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"s/ZfNH+W+Yz1307MnP9gqXVSzhx1rXIdxOoPT9hzEgA=\""
+          "Value": "\"Yx5qrERH+A3NI/ZsLP4TG893usTdMIMn2L0/+zbi9u4=\""
         },
         {
           "Name": "Last-Modified",
@@ -52025,13 +52025,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-s/ZfNH+W+Yz1307MnP9gqXVSzhx1rXIdxOoPT9hzEgA="
+          "Value": "sha256-Yx5qrERH+A3NI/ZsLP4TG893usTdMIMn2L0/+zbi9u4="
         }
       ]
     },
     {
       "Route": "service-worker.js.br",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\tqn9vhuxsg-xzo7jz7vgv.br",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\tqn9vhuxsg-9tc7d2fxqj.br",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -52052,7 +52052,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 08 Aug 2025 13:21:15 GMT"
+          "Value": "Fri, 08 Aug 2025 18:48:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -52076,7 +52076,7 @@
     },
     {
       "Route": "service-worker.js.gz",
-      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\tqn9vhuxsg-xzo7jz7vgv.gz",
+      "AssetFile": "C:\\Users\\ngqaz\\OneDrive\\Desktop\\C# Exercises\\DpTracker1\\DpTracker\\DpTracker\\obj\\Release\\net9.0\\compressed\\publish\\tqn9vhuxsg-9tc7d2fxqj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -52097,7 +52097,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 08 Aug 2025 13:21:15 GMT"
+          "Value": "Fri, 08 Aug 2025 18:48:04 GMT"
         },
         {
           "Name": "Cache-Control",

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DpTracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a642d7b062a544a653a68b8b3d2bf8e2826f973")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97090c4d6c44ab157d58bfd4c3bd41c958dc976f")]
 [assembly: System.Reflection.AssemblyProductAttribute("DpTracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DpTracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

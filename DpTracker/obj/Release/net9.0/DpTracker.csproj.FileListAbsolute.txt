@@ -1110,8 +1110,6 @@ C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\bin\
 C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\bin\Release\net9.0\wwwroot\_framework\dotnet.native.st0ovrfdhi.js
 C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\bin\Release\net9.0\wwwroot\_framework\dotnet.native.67rumul467.wasm
 C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\bin\Release\net9.0\wwwroot\_framework\dotnet.runtime.593bvuk5yc.js
-C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\bin\Release\net9.0\wwwroot\_framework\DpTracker.v8694nrwqo.pdb
-C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\bin\Release\net9.0\wwwroot\_framework\DpTracker.g3gwgisrp3.wasm
 C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\bin\Release\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.qe23mgxr71.wasm
 C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\bin\Release\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.thhw8cz9wu.wasm
 C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\bin\Release\net9.0\wwwroot\_framework\Microsoft.AspNetCore.Components.flveird317.wasm
@@ -1361,7 +1359,6 @@ C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\bin\
 C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\bin\Release\net9.0\wwwroot\_framework\System.Collections.NonGeneric.rxjrzzpp9g.wasm.gz
 C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\bin\Release\net9.0\wwwroot\_framework\System.IO.Pipes.AccessControl.qfh40ih8l6.wasm.gz
 C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\bin\Release\net9.0\wwwroot\_framework\Microsoft.JSInterop.sk08br83jz.wasm.gz
-C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\bin\Release\net9.0\wwwroot\_framework\DpTracker.v8694nrwqo.pdb.gz
 C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\bin\Release\net9.0\wwwroot\_framework\System.Net.Mail.7wmkfq1voo.wasm.gz
 C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\bin\Release\net9.0\wwwroot\_framework\System.Reflection.Emit.1sfjh9emmw.wasm.gz
 C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\bin\Release\net9.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.k6p4pn9w0l.wasm.gz
@@ -1401,7 +1398,6 @@ C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\bin\
 C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\bin\Release\net9.0\wwwroot\_framework\System.Net.Primitives.zv1ut64ban.wasm.gz
 C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\bin\Release\net9.0\wwwroot\_framework\System.Web.8uickrr2w7.wasm.gz
 C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\bin\Release\net9.0\wwwroot\_framework\System.Console.s0qgw5psci.wasm.gz
-C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\bin\Release\net9.0\wwwroot\_framework\DpTracker.g3gwgisrp3.wasm.gz
 C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\bin\Release\net9.0\wwwroot\_framework\System.Transactions.g6ni30uafv.wasm.gz
 C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\bin\Release\net9.0\wwwroot\_framework\System.ComponentModel.Annotations.6hr3q9fx89.wasm.gz
 C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\bin\Release\net9.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.fkdz83fr0b.wasm.gz
@@ -2178,11 +2174,6 @@ C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\obj\
 C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\obj\Release\net9.0\compressed\sho86h0y5r-tjcz0u77k5.gz
 C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\obj\Release\net9.0\compressed\xvtnsqg7tt-tptq2av103.gz
 C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\obj\Release\net9.0\compressed\22dydq9w72-lfu7j35m59.gz
-C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\obj\Release\net9.0\compressed\g5ofecct3u-g3gwgisrp3.gz
-C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\obj\Release\net9.0\compressed\8zlseyj3e7-v8694nrwqo.gz
-C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\obj\Release\net9.0\compressed\jgrbzheqbm-6z21ajsjbd.gz
-C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\obj\Release\net9.0\compressed\rlmx8lkg3x-m45u9gnwef.gz
-C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\obj\Release\net9.0\compressed\lt7waeufy6-prphskaap1.gz
 C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\obj\Release\net9.0\staticwebassets.build.json
 C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\obj\Release\net9.0\staticwebassets.development.json
 C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\obj\Release\net9.0\staticwebassets.build.endpoints.json
@@ -2197,3 +2188,12 @@ C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\obj\
 C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\obj\Release\net9.0\refint\DpTracker.dll
 C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\obj\Release\net9.0\DpTracker.pdb
 C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\obj\Release\net9.0\ref\DpTracker.dll
+C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\bin\Release\net9.0\wwwroot\_framework\DpTracker.mttcskwzbj.pdb
+C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\bin\Release\net9.0\wwwroot\_framework\DpTracker.xrayq8alio.wasm
+C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\bin\Release\net9.0\wwwroot\_framework\DpTracker.mttcskwzbj.pdb.gz
+C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\bin\Release\net9.0\wwwroot\_framework\DpTracker.xrayq8alio.wasm.gz
+C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\obj\Release\net9.0\compressed\g5ofecct3u-xrayq8alio.gz
+C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\obj\Release\net9.0\compressed\8zlseyj3e7-mttcskwzbj.gz
+C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\obj\Release\net9.0\compressed\jgrbzheqbm-89cw6z53i8.gz
+C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\obj\Release\net9.0\compressed\rlmx8lkg3x-eqrqq6vxf3.gz
+C:\Users\ngqaz\OneDrive\Desktop\C# Exercises\DpTracker1\DpTracker\DpTracker\obj\Release\net9.0\compressed\lt7waeufy6-rbkohsbg4c.gz

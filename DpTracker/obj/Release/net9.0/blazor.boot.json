@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "DpTracker",
   "resources": {
-    "hash": "sha256-XkhTtkgPaCqWvCViEba6XDUOTTrp92o29HU0YXnkYns=",
+    "hash": "sha256-GIZwYgOllcpETpwZuYJLD7CJJcHU9G6nXnMWi6y4J/k=",
     "fingerprinting": {
       "Blazored.LocalStorage.12n6dz54qr.wasm": "Blazored.LocalStorage.wasm",
       "Microsoft.AspNetCore.Authorization.qe23mgxr71.wasm": "Microsoft.AspNetCore.Authorization.wasm",
@@ -202,8 +202,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "DpTracker.g3gwgisrp3.wasm": "DpTracker.wasm",
-      "DpTracker.v8694nrwqo.pdb": "DpTracker.pdb"
+      "DpTracker.xrayq8alio.wasm": "DpTracker.wasm",
+      "DpTracker.mttcskwzbj.pdb": "DpTracker.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.st0ovrfdhi.js": "sha256-MBW/zayfv+YU6mhH7y4b8NNU4D1EYd7nf9gYrFshnnY="
@@ -414,10 +414,10 @@
       "WindowsBase.u25hol0de4.wasm": "sha256-CgB28KCiYKHd4yK6IM0PJ526P7IbRCpNkGTqn+cLwxs=",
       "mscorlib.brg9pkj3je.wasm": "sha256-FzZwzxUYYyg3qxc7Km8r50UKAmRWrIeckSFG1NTHKNU=",
       "netstandard.wuzd3f1y6v.wasm": "sha256-yAXc0deBIRkWTVXqADZfhgZtrxGgJCIbZYVtA0NjvdM=",
-      "DpTracker.g3gwgisrp3.wasm": "sha256-fDFsqk9+NFpYc7epRt2YZCkQruo+paMFfbATEfZ/F3Q="
+      "DpTracker.xrayq8alio.wasm": "sha256-DcU7AEGY8bFH5gFexqibL+HCKKJhmHDyO78pPsjqSJU="
     },
     "pdb": {
-      "DpTracker.v8694nrwqo.pdb": "sha256-33eqd96oBwQ0XxWSAate6gGRybBFy/ICL/R4SoyiZsU="
+      "DpTracker.mttcskwzbj.pdb": "sha256-BrII4tZzvgXnKBChf1tIdHHjOA7pCpaGf1tonEYdb+w="
     }
   },
   "cacheBootResources": true,
